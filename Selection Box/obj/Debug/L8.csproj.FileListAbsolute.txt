@@ -1,0 +1,16 @@
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\bin\Debug\L8.exe.config
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\bin\Debug\L8.exe
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\bin\Debug\L8.pdb
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.csproj.AssemblyReference.cache
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.csproj.SuggestedBindingRedirects.cache
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\MainWindow.g.cs
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\App.g.cs
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8_MarkupCompile.cache
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8_MarkupCompile.lref
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\MainWindow.baml
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.g.resources
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.Properties.Resources.resources
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.csproj.GenerateResource.cache
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.csproj.CoreCompileInputs.cache
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.exe
+D:\school\L8-S-Box-main\L8-S-Box-main\L8\obj\Debug\L8.pdb
